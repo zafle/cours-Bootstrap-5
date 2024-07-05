@@ -1,0 +1,8 @@
+@use 'sass:color';
+
+// colors
+$primary: #20c997;
+$secondary: color.complement($primary);
+
+$enable-rounded:              false;
+$enable-shadows:              true;
